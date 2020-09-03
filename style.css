@@ -28,7 +28,7 @@ h2 {
 }
 
 h3 {
-    color: #cbcbcb;
+    color: #d9a2a2;
 }
 
 div.col {
@@ -38,7 +38,7 @@ div.col {
 }
 
 button {
-    background-color: #e600a0;
+    background-color: #11bf75;
     border-radius: 5px;
     padding: 20px 50px;
     color: white;
@@ -49,7 +49,7 @@ button {
 }
 
 button:hover {
-    background-color: #980469;
+    background-color: #dbaccc;
 }
 
 button:active,
